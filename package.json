@@ -1,0 +1,33 @@
+{
+  "name": "platzon",
+  "version": "0.1.0",
+  "description": "Prefixer and suffixer translator",
+  "main": "dist/src/platzon.js",
+  "scripts": {
+    "build": "babel src/platzon.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisFuenTech/platzon.git"
+  },
+  "keywords": [
+    "platzon",
+    "platzi",
+    "javascript",
+    "js",
+    "npm"
+  ],
+  "author": "Luis Fuentes <luisfuentes.au@gmail.com> (https://github.com/LuisFuenTech)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisFuenTech/platzon/issues"
+  },
+  "homepage": "https://github.com/LuisFuenTech/platzon#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
