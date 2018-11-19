@@ -15,7 +15,8 @@ Run `npm install platzon`
 import platzon from 'platzon'
 
 platzon('Sugar') // Sug
-platzon('Zeppelin') // Zeppelinpe
+platzon('Zebra') // Zebrape
+platzon('Zeppelin') // Zeppe-linpe
 platzon('Extraordinary') // Extraor-dinary
 platzon('Sometemos') // SoMeTeMoS
 ```
